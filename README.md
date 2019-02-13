@@ -14,3 +14,5 @@ Sendo assim, pretende-se que elabore precisamente esse protótipo para uma empre
 (3 valores) – Inclusão de elementos originais e marcação semântica desses conteúdos;
 
 (5 valores) – Design (CSS).
+
+** A avaliação está disponível no moodle - disciplina de Design Hipermédia
